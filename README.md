@@ -1,0 +1,1 @@
+Port of https://github.com/jamesmcm/scala-sudoku-solver, a Sudoku solver written in Scala, to Rust.
